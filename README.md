@@ -1,6 +1,6 @@
-# Sandwhich-api
+# Sandwich Api
 
-###My sandwhich Api
+### My Sandwich Api
 
 This is my own mock version of an API. It does not have routing/controllers, so it is a very stripped down version of an API. 
 
