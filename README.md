@@ -1,12 +1,11 @@
-# Sandwich Api
+# My Sandwich Api :sandwich:
 
-### My Sandwich Api
-
-This is my own mock version of an API. It does not have routing/controllers, so it is a very stripped down version of an API. 
+This is my own mock version of an API. It does not have any routing or controllers. The API is a stripped down light version of an API thanks to this [json server pacakge](https://github.com/typicode/json-server) and [inspired by](https://github.com/kubowania/burger-api). 
 
 ### Live Site:
-https://my-sandwich-api.herokuapp.com/
+ [![Demo](https://img.shields.io/badge/Demo-informational?style=for-the-badge&logo=github)](https://my-sandwich-api.herokuapp.com/)
 
+*You can make GET, POST, PUT, DELETE requests to it in order to use the fake API in a project.* 
 
 features to add:
 - toasted: true/false
@@ -23,5 +22,5 @@ objects to add:
 restaurants to add:
 - union market
 - salt and forge
-- potbelly sandshich shop
+- potbelly sandwhich shop
 - which which
