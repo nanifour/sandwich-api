@@ -5,10 +5,9 @@ This is my own mock version of an API. It does not have any routing or controlle
 ### Live Site:
  [![Demo](https://img.shields.io/badge/Demo-informational?style=for-the-badge&logo=github)](https://my-sandwich-api.herokuapp.com/)
 
-*You can make GET, POST, PUT, DELETE requests to it in order to use the fake API in a project.* 
+*You can make GET, POST, PUT, DELETE requests to it in order to use the mock API in a project.* 
 
 features to add:
-- toasted: true/false
 - temperature: hot or cold sandwich
 - vegan: true/false
 - vegetarian: true/false
